@@ -59,3 +59,8 @@ Luego copia todo el codigo que esta en la clase class1 dependiendo el lenguaje q
 - (C#): TaskBarProgressBarC#/class1.cs
 
 Espero que este proyectito te sea de mucha ayuda :3
+
+## Nota Final
+Tambien puedes descargar este proyecto y probarlo usando TestVB o TestC#, son dos formularios programados en distintos lenguajes, pero que hacen exactamente lo mismo
+
+- Ahora sip, Disfrutalo :D
